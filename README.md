@@ -14,3 +14,9 @@ Install Docker, run `docker-compose -f docker-compose.yaml up --detach`
 ### Import JMeter Grafana dashboard
 1) Go to Dashboards -> New -> Import 
 2) Input 4026 and click Load
+
+## Screenshots 
+Grafana dashboard
+![Alt text](screenshots/grafana.png?raw=true "Grafana dashboard")
+JMeter
+![Alt text](screenshots/jmeter.png?raw=true "JMeter")
